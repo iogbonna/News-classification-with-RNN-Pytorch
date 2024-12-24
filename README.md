@@ -1,6 +1,3 @@
-# News-classification-with-RNN-Pytorch
-
-
 # AG News Classification using PyTorch RNN
 
 This repository contains a Jupyter Notebook that demonstrates text classification on the AG News dataset using a Recurrent Neural Network (RNN) implemented in PyTorch. The notebook includes data preprocessing, model training, evaluation, and visualization of the results.
